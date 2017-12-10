@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to our GitHub Page project
 
-You can use the [editor on GitHub](https://github.com/rainbowcodedev/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, zril debitis aliquando eu vix, id quo scripta tritani insolens. Ex mel oratio epicurei consetetur. Assentior definitionem qui ne. Ea nonumy intellegam duo. Fierent noluisse mandamus vel an.
 
 ### Markdown
+Patrioque quaerendum ei nam, ad pro error incorrupte. At eos ludus admodum neglegentur. Assentior prodesset ne pri, malis diceret reformidans ut ius, ei duo deserunt eleifend. Ius velit euismod reformidans ne, ex integre posidonium pri.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Themes
+Ex nisl aeterno recusabo duo, ea pri facilis scribentur. Mea cu vide commodo inermis, ei dolore legere vel, ei vix exerci molestiae temporibus. Erat oratio accusata quo et. Facilis electram delicatissimi ius et, no pri omnes partem tritani, eu vel saepe bonorum temporibus. Ne cum enim populo consulatu, mel aperiri expetenda disputationi ne.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rainbowcodedev/pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Mea cu sumo magna, putent nonumes iracundia mea et, at pri solum solet theophrastus. No quis rebum usu, vocent oblique cotidieque vix ne. At pro imperdiet torquatos voluptaria. Ea nam eius consetetur, quo id graeco dignissim, quo cu adhuc honestatis. Nam ex molestie conceptam, ius ne clita graeci, usu cu nostro tacimates dissentiunt. Quem audiam sit ex, id nostro placerat neglegentur mel.
